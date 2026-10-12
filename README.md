@@ -15,4 +15,6 @@ O projeto foi apresentado ao público durante o evento, proporcionando uma exper
 
 <img width="939" height="808" alt="image" src="https://github.com/user-attachments/assets/b0d0abb9-c4bb-4d62-a94c-a6a1bf82c1d2" />
 
-**Conceitos envolvidos:** Estruturas de Dados, lógica de programação, resolução de problemas e desenvolvimento colaborativo.
+
+
+**🧠 Conceitos envolvidos:** Estruturas de Dados, lógica de programação, resolução de problemas e desenvolvimento colaborativo.
