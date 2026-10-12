@@ -8,11 +8,11 @@ O jogo foi estruturado em cinco etapas, incluindo desafios baseados em **pilhas 
 
 O projeto foi apresentado ao público durante o evento, proporcionando uma experiência prática que conecta tecnologia, criatividade e trabalho em equipe.
 
-**Conceitos envolvidos:** Estruturas de Dados, lógica de programação, resolução de problemas e desenvolvimento colaborativo.
-
 # Capa do projeto
 <img width="977" height="703" alt="image" src="https://github.com/user-attachments/assets/448c65b9-32a1-4950-aadf-afbe53213726" />
 
 # Destaque técnico
 
 <img width="939" height="808" alt="image" src="https://github.com/user-attachments/assets/b0d0abb9-c4bb-4d62-a94c-a6a1bf82c1d2" />
+
+**Conceitos envolvidos:** Estruturas de Dados, lógica de programação, resolução de problemas e desenvolvimento colaborativo.
