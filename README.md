@@ -1,5 +1,3 @@
-# Escape Room — Quem cometeu o crime?
-
 ### Escape Room — Quem cometeu o crime?
 
 **Jogo investigativo interativo | Estruturas de Dados**
